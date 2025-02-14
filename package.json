@@ -1,4 +1,5 @@
 {
+  "homepage": "https://MubtasimPrime.github.io/Responsive_Portfolio_Website_Using_React_JS",
   "name": "responsive_portfolio_website_using_node_js",
   "version": "0.1.0",
   "private": true,
@@ -36,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
